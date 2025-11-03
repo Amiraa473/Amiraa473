@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Amira!
 
-<!--
-**Amiraa473/Amiraa473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Information Technology Student**  
+📚 Passionate about Web Development, Databases & UI/UX  
+🚀 Currently learning: JavaScript, SQL & Responsive Design  
+🌱 Always improving and building cool projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP(Learning)
+- **Tools:** VS Code, Git & GitHub  
+- **Databases:** MySQL / SQL
+
+---
+
+### 📌 Featured Projects
+- ✅ **Weather App** – API, Search, UI animations  
+- ✅ **School Project Portfolio** – Responsive design  
+- ✅ **Database Projects** – ERD, Normalization, SQL queries
+
+---
+
+### 📫 Contact Me
+- ✉️ Email: *(add email if you want)*  
+- 💼 LinkedIn: *(optional)*
+
+---
+
+### ⚡ Fun Fact
+I like music, creativity and turning ideas into real working apps!
+
+---
+
+⭐ _Feel free to explore my repositories and follow my journey!_
